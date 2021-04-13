@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladyslav</h1>
 <h3 align="center">and I do front-end</h3>
 
-- 🔭 I’m currently working on [Rekkd](http://rekkdapp.herokuapp.com/)
+- 🔭 I’m currently working on Rekkd
 
 - 🌱 Also working on [BrandsOnMaps](https://brandsonmap.herokuapp.com/)
 
