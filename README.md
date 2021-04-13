@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Rekkd](http://rekkdapp.herokuapp.com/)
 
-- 🌱 I’m currently learning **React**
-
 - 🌱 Also working on [BrandsOnMaps](https://brandsonmap.herokuapp.com/)
 
 - 👯 Cool thing I did [ShadowMKR](https://shadomkr.herokuapp.com/)
