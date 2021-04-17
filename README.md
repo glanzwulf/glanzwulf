@@ -5,7 +5,9 @@
 
 - 🌱 Also working on [BrandsOnMaps](https://brandsonmap.herokuapp.com/)
 
-- 👯 Cool thing I did [ShadowMKR](https://shadomkr.herokuapp.com/)
+- 💪 Cool thing I did to help me with Box-Shadows [ShadowMKR](https://shadomkr.herokuapp.com/)
+
+- 🎸 React Music Player I did to listen to some bangers [Music Player](https://vladyslav-reactmusic.herokuapp.com/)
 
 <h3 align="left">Say hi back:</h3>
 <p align="left">
