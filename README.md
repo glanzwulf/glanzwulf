@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Rekkd](https://rekkdapp.herokuapp.com/) (mobile-only)
 
-- 🌱 Also working on [BrandsOnMaps](https://brandsonmap.herokuapp.com/)
+- 🌱 Soon you'll see my finished [Portfolio](https://vladyslav-portfolio.herokuapp.com/)
 
 - 💪 Cool thing I did to help me with Box-Shadows [ShadowMKR](https://shadomkr.herokuapp.com/)
 
